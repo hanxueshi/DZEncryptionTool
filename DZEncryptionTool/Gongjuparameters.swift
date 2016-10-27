@@ -10,7 +10,7 @@ import UIKit
 import Foundation
 
 //MARK:----------------------------APP 配置信息--------------------------------------下
-//////准生产环境api
+//////准生产环境api  asdad
 let GLOBAL_IPADDRESS_API = "http:///"
 let GLOBAL_IPADDRESS_PIC = "http:///"
 
